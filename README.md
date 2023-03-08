@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Daniel-acFerraz">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-acFerraz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="42.5%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-acFerraz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="46%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-acFerraz&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
